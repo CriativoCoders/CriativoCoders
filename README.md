@@ -1,16 +1,22 @@
-## Hi there 👋
+### Olá, eu sou a Talita 👋
 
-<!--
-**CriativoCoders/CriativoCoders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## GitHub Stats
 
-Here are some ideas to get you started:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=CriativoCoders&show_icons=False&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CriativoCoders&layout=compact&theme=radical)
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
+
+### 🔹 Frontend  
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,&perline=20)
+
+### 🔹 Backend  
+![My Skills](https://skillicons.dev/icons?i=java,python,django,csharp&perline=20)  
+
+### 🔹 Tools and Others 
+![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,arduino,pycharm&perline=20)
+
+
