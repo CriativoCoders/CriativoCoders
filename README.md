@@ -11,22 +11,16 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
 
 ### 🔹 Frontend  
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,&perline=20)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,vite,react,ts,&perline=20)
 
 ### 🔹 Backend  
-![My Skills](https://skillicons.dev/icons?i=java,python,django,csharp&perline=20)  
+![My Skills](https://skillicons.dev/icons?i=php,mysql,java,python,django,nodejs,csharp&perline=20)  
 
 ### 🔹 Tools and Others 
 ![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,arduino,pycharm&perline=20)
 
-------------------
 
-![](https://img.shields.io/badge/javascript-informational?style=flat&logo=javascript&logoColor=white&color=gold)
-![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=blue)
-![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=pink)
-![](https://img.shields.io/badge/python-informational?style=flat&logo=python&logoColor=white&color=green)
-![](https://img.shields.io/badge/django-informational?style=flat&logo=django&logoColor=white&color=black)
-![](https://img.shields.io/badge/SQL-informational?style=flat&logo=sql-server&logoColor=white&color=orange)
+------------------
 
 ### About Me:
 
