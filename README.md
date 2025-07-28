@@ -19,6 +19,9 @@
 ### 🔹 Tools and Others 
 ![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,arduino,pycharm&perline=20)
 
+### 🔹 Mobile
+![My Skills](https://skillicons.dev/icons?i=flutter,dart)
+
 
 ------------------
 
