@@ -11,7 +11,10 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
 
 ### 🔹 Frontend  
-![My Skills](https://skillicons.dev/icons?i=html,css,js,vite,react,ts,&perline=20)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,vite,react,ts,sass,angular&perline=20)
+
+### 🔹 Desing
+![My Skills](https://skillicons.dev/icons?i=figma)
 
 ### 🔹 Backend  
 ![My Skills](https://skillicons.dev/icons?i=php,mysql,java,python,django,nodejs,csharp&perline=20)  
@@ -21,6 +24,12 @@
 
 ### 🔹 Mobile
 ![My Skills](https://skillicons.dev/icons?i=flutter,dart)
+
+### 🔹 devops
+![My Skills](https://skillicons.dev/icons?i=heroku)
+
+
+
 
 
 ------------------
