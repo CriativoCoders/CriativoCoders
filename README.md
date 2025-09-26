@@ -17,7 +17,7 @@
 ![My Skills](https://skillicons.dev/icons?i=figma)
 
 ### 🔹 Backend  
-![My Skills](https://skillicons.dev/icons?i=php,mysql,java,python,django,nodejs,csharp&perline=20)  
+![My Skills](https://skillicons.dev/icons?i=php,mysql,java,python,django,nodejs,C#,csharp&perline=20)  
 
 ### 🔹 Tools and Others 
 ![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,arduino,pycharm&perline=20)
