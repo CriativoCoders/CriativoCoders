@@ -1,20 +1,20 @@
 ### Olá, eu sou a Talita 👋
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img alt="Talita's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CriativoCoders&show_icons=true&count_private=true&theme=radical" />
+  <img alt="Talita's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CriativoCoders&show_icons=true&count_private=true&theme=radical" width="450" />
 </p>
 
 <p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CriativoCoders&layout=compact&theme=radical" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CriativoCoders&layout=compact&theme=radical" width="450" />
 </p>
 
 <p align="center">
   ✨ Estatísticas atualizadas automaticamente — acompanhe meu progresso!  
 </p>
+
 
 
 ---
