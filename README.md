@@ -22,6 +22,8 @@
 
 ### 🔹 Tools and Others 
 ![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,arduino,pycharm&perline=20)
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" />
+
 
 ### 🔹 Mobile
 ![My Skills](https://skillicons.dev/icons?i=flutter,dart)
