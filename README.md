@@ -15,8 +15,6 @@
   ✨ Estatísticas atualizadas automaticamente — acompanhe meu progresso!  
 </p>
 
-
-
 ---
 
 ## 🛠️ Languages and Tools  
