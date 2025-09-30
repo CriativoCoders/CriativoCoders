@@ -5,12 +5,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CriativoCoders&show_icons=False&theme=radical" alt="Your GitHub Stats" />
+  <img alt="Talita's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CriativoCoders&show_icons=true&count_private=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CriativoCoders&layout=compact&theme=radical" alt="Top Languages" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CriativoCoders&layout=compact&theme=radical" />
 </p>
+
+<p align="center">
+  ✨ Estatísticas atualizadas automaticamente — acompanhe meu progresso!  
+</p>
+
 
 ---
 
