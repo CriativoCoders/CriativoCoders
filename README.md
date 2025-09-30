@@ -64,6 +64,14 @@ Olá! Meu nome é Talita e sou uma pessoa comunicativa, sempre em busca de apren
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CriativoCoders&theme=vue" alt="Repos per language" />
 </p>
 
+---
+
+<p align="center">
+  🚀 Explore meus repositórios favoritos e linguagens mais usadas no GitHub!  
+  🔍 Clique nos cards para ver mais detalhes no meu perfil.  
+</p>
+
+
 
   <section class="about-me">
     <h2>About Me</h2>
