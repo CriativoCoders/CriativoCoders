@@ -2,7 +2,8 @@
 
 ### Olá, eu sou a Talita 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=200&section=header&text=Talita%20Cristina Dev&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlign=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=200&section=header&text=Talita%20Cristina%20Dev&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlign=60"/>
+
 
 ## 🎯 Apaixonada por Back-end | 🤖 Amo Robótica | 📊 Fã de Banco de dados
 
@@ -128,4 +129,5 @@ Olá! Meu nome é Talita e sou uma pessoa comunicativa, sempre em busca de apren
 
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&reversal=true" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&reversal=true" width="100%"/>
+</div>
