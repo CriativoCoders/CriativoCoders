@@ -6,7 +6,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=200&section=header&text=Talita%20Cristina%20Dev&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlign=60"/>
 
-![snake gif](https://github.com/CriativoCoders/CriativoCoders/blob/output/github-contribution-grid-snake.svg)
 
 
 ## 🎯 Apaixonada por Back-end | 🤖 Amo Robótica | 📊 Fã de Banco de dados
