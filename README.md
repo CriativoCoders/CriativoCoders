@@ -1,8 +1,12 @@
 <div align="center">
 
-### Olá, eu sou a Talita 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Olá%2C+eu+sou+a+Talita!;Desenvolvedora+Back-End+%F0%9F%92%BB;Apaixonada+por+tecnologia+%F0%9F%92%96" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=200&section=header&text=Talita%20Cristina%20Dev&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlign=60"/>
+
+![snake gif](https://github.com/CriativoCoders/CriativoCoders/blob/output/github-contribution-grid-snake.svg)
 
 
 ## 🎯 Apaixonada por Back-end | 🤖 Amo Robótica | 📊 Fã de Banco de dados
@@ -41,6 +45,7 @@
 </p>
 
 ---
+
 
 ### About Me  
 
