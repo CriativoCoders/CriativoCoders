@@ -1,21 +1,11 @@
+<div align="center">
+
 ### Olá, eu sou a Talita 👋
 
----
-## 📊 GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=200&section=header&text=Talita%20Cristina Dev&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlign=60"/>
 
-<p align="center">
-  <img alt="Talita's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CriativoCoders&show_icons=true&count_private=true&theme=radical" width="450" />
-</p>
+## 🎯 Apaixonada por Back-end | 🤖 Amo Robótica | 📊 Fã de Banco de dados
 
-<p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CriativoCoders&layout=compact&theme=radical" width="450" />
-</p>
-
-<p align="center">
-  ✨ Estatísticas atualizadas automaticamente — acompanhe meu progresso!  
-</p>
-
----
 
 ## 🛠️ Languages and Tools  
 
@@ -67,19 +57,28 @@ Olá! Meu nome é Talita e sou uma pessoa comunicativa, sempre em busca de apren
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CriativoCoders&theme=vue" alt="Repos per language" />
 </p>
 
----
-
-<p align="center">
-  🚀 Explore meus repositórios favoritos e linguagens mais usadas no GitHub!  
-  🔍 Clique nos cards para ver mais detalhes no meu perfil.  
-</p>
-
-
 
   <section class="about-me">
     <h2>About Me</h2>
     <p>Olá! Meu nome é Talita! e sou uma pessoa comunicativa, sempre em busca de aprender e crescer. Acredito que a comunicação é uma ferramenta poderosa, e adoro interagir com diferentes pessoas, trocar ideias e compartilhar experiências. Essa habilidade me ajuda a construir relacionamentos significativos e a entender melhor o mundo ao meu redor.</p>
   </section>
+
+
+  ## 📊 GitHub Stats
+
+<p align="center">
+  <img alt="Talita's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CriativoCoders&show_icons=true&count_private=true&theme=radical" width="450" />
+</p>
+
+<p align="center">
+  <img alt="Talita Git Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CriativoCoders&layout=compact&theme=radical" width="450" />
+</p>
+
+<p align="center">
+  ✨ Estatísticas atualizadas automaticamente — acompanhe meu progresso!  
+</p>
+
+---
 
 </div>
 
@@ -126,3 +125,7 @@ Olá! Meu nome é Talita e sou uma pessoa comunicativa, sempre em busca de apren
   <!-- Adicione mais imagens aqui -->
   <!-- Repita o padrão acima para as 29 imagens restantes -->
 </div>
+
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&reversal=true" width="100%"/>
